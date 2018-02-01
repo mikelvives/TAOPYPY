@@ -1,7 +1,6 @@
 la idea d'aquest document és apuntar les coses a fer i les coses fetes, i qui les farà. 
 
 **coses a fer. 
-2. pujar a GITHUB tot el que ja tenim de python. sigui quin sigui el resultat a kaggle. això ens servirà com a base per a propers evolutius. 
 3. visualitzar les dades. i aplicar sentit comú per a buscar el model. 
 4. fer codi per a provar altres models, dels que em vist a clase. 
 -- codi per a netejar dades. 
@@ -12,7 +11,7 @@ la idea d'aquest document és apuntar les coses a fer i les coses fetes, i qui l
 
 **coses fetes.
 1. Github creat :) 
-
+2. pujar a GITHUB tot el que ja tenim de python. sigui quin sigui el resultat a kaggle. això ens servirà com a base per a propers evolutius. 
 
 **coses qeu no farem. 
 - com treballem amb les piulades de kaggle, no cal guardar dades de validació ni res. 
