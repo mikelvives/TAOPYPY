@@ -2,6 +2,10 @@ la idea d'aquest document és apuntar les coses a fer i les coses fetes, i qui l
 
 **coses a fer. 
 3. visualitzar les dades. i aplicar sentit comú per a buscar el model. 
+-- fer un histograma de les paraules: 
+divideixi paraula / frequencia / etiqueta (si/no/neutral) 
+
+
 4. fer codi per a provar altres models, dels que em vist a clase. 
 -- codi per a netejar dades. 
 -- codi per a preparar dades per al model
@@ -15,4 +19,9 @@ la idea d'aquest document és apuntar les coses a fer i les coses fetes, i qui l
 
 **coses qeu no farem. 
 - com treballem amb les piulades de kaggle, no cal guardar dades de validació ni res. 
+
+
+**NEXT STEPS:
+-- 2 o 3 setmanes per a estudiar repasar el codi del l'Oriol. 
+
 
