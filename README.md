@@ -1,8 +1,6 @@
 # Taopypy - Capstone Project
 
-Análisis de sentimiento de tweets de aerolíneas españolas
-
-Este repositorio contiene un análisis completo de tweets sobre líneas aéreas y la creación de un modelo de extracción de sentimiento.
+Este repositorio contiene un análisis completo de tweets sobre aerolíneas españolas y la creación de un modelo de extracción de sentimiento.
 
 ## Getting Started
 
