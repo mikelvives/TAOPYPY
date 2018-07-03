@@ -1,19 +1,22 @@
 # Taopypy - Capstone Project
+Análisis de Sentimiento de Tweets de Aerolíneas Españolas
 
-Este repositorio contiene un análisis completo de tweets sobre aerolíneas españolas y la creación de un modelo de extracción de sentimiento.
+## Objetivo
+
+Este repositorio contiene un análisis completo de tweets de como los pasajeros expresan sus sentimientos y la creación de un modelo de extracción de esos sentimientos.
 
 ## Equipo
 
-Miquel Vives - Project Manager - T-Systems Iberia
-Ferran López - Director Fundador - TekneCultura
-Félix Hernández - Data Engineer - Cornerjob
-Berta Izquierdo - Team Lead - Google Cloud  - SELLBYTEL
+* [Miquel Vives](https://www.linkedin.com/in/miquelvivessingla/) Project Manager, T-Systems Iberia
+* [Ferran López](https://www.linkedin.com/in/ferranlopezarbiol/) Director Fundador, TekneCultura
+* [Félix Hernández](https://www.linkedin.com/in/felix-hernandez-ansuategui/) Data Engineer, Cornerjob
+* [Berta Izquierdo](https://www.linkedin.com/in/bizquierdof/) Team Lead - Google Cloud , SELLBYTEL
 
 ## Contenido
 
-Este repositorio contiene diferentes .ipynb totalmente independientes. Consulte cada uno de ellos para obtener instrucciones sobre cómo configurar las credenciales para las aplicaciones.
+Este repositorio contiene diferentes .ipynb totalmente independientes. Consulte cada uno de ellos para ver en detalle su contenido.
 
-* Reach of tweets - Extracción del número de seguidores de cada tuitero con la API de Twitter.
-* Bow - Bag of words con las características del texto para cada una de las aerolíneas españolas.
-* Models.ipynb - Análisis de datos y comparativa de modelos
-* RNN-LSTM - Análisis y predicción de sentimiento con un red neuronal recurrente de tipo Long Short Term Memory (LSTM).
+* [Reach of tweets](https://github.com/mikelvives/TAOPYPY/blob/master/reach_of_tweets.ipynb) - Extracción del número de seguidores de cada tuitero con la API de Twitter.
+* [Bow](https://github.com/mikelvives/TAOPYPY/blob/master/bow.ipynb) - Bag of words con las características del texto para cada una de las aerolíneas españolas.
+* [Models](https://github.com/mikelvives/TAOPYPY/blob/master/models.ipynb) - Análisis de datos y comparativa de modelos
+* [RNN-LSTM](https://github.com/mikelvives/TAOPYPY/blob/master/RNN_LSTM.ipynb) - Análisis y predicción de sentimiento con un red neuronal recurrente de tipo Long Short Term Memory (LSTM).
